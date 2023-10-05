@@ -71,7 +71,7 @@ function App() {
     { name: "Urdu", ability: "Limited Working Proficiency" }
   ]
 
-  let interestData = ["Learing new skill", "Teaching mobile ", "app developmen"]
+  let interestData = ["Learing new skill", "Teaching", "mobile app developmen"]
   return (
     <div className="App">
       <Header />
