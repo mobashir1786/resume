@@ -101,7 +101,7 @@ function App() {
           {languageData.map((n) => (<Language name={n.name} desc={n.ability} />))}
 
 
-          <div className='allcontentHeading'>SKILL</div>
+          <div className='allcontentHeading'>INTERESTS</div>
           <hr />
           <div className="skill">{interestData.map((n) => (<Interest n={n} />))}</div>
         </div>
